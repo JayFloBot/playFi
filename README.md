@@ -1,4 +1,4 @@
-# Trading Research Platform
+Trading Research Platform
 
 A comprehensive web-based trading research platform that allows users to analyze stocks, options, futures, and crypto assets using technical analysis and machine learning forecasting.
 
